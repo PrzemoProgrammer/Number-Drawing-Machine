@@ -1,0 +1,29 @@
+{
+  "name": "pixi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/filter-bevel": "^5.1.1",
+    "@pixi/filter-bulge-pinch": "^5.1.1",
+    "gsap": "^3.12.2",
+    "pixi.js": "^7.3.1",
+    "planck": "^1.0.0-beta.16"
+  },
+  "devDependencies": {
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.0",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
