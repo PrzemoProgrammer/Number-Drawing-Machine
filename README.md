@@ -1,4 +1,4 @@
-<img align="right" alt="coding" src="https://img.freepik.com/premium-vector/lottery-numbers-flying-realistic-drawing-lottery-billiard-balls-lucky-accidental-win-instant-jackpot-internet-gambling-lotto-bingo-vector-concept-dark-background_176411-1638.jpg?w=2000"  width="300" height="300">
+<img align="right" alt="coding" src="https://img.freepik.com/premium-vector/lottery-numbers-flying-realistic-drawing-lottery-billiard-balls-lucky-accidental-win-instant-jackpot-internet-gambling-lotto-bingo-vector-concept-dark-background_176411-1638.jpg?w=2000"  width="400" height="400">
 
 # Number Drawing Machine - Game
 * Created in 𝗣𝗶𝘅𝗶.𝗷𝘀,
