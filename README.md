@@ -1,7 +1,4 @@
-https://youtu.be/c7WboCXjzd8
-
-
-<img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdf6fLsTxl-gYRFPyD-mOlJV07_suGz6-JuFEuidc6Lc_U5-ZLJdJinRuaJI4tOWpKzE8&usqp=CAU" width="350" height="auto">
+<img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdf6fLsTxl-gYRFPyD-mOlJV07_suGz6-JuFEuidc6Lc_U5-ZLJdJinRuaJI4tOWpKzE8&usqp=CAU">
 
 # Number Drawing Machine - Game
 * Created in 𝗣𝗶𝘅𝗶.𝗷𝘀,
@@ -15,7 +12,7 @@ https://youtu.be/c7WboCXjzd8
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c7WboCXjzd8/0.jpg)](https://www.youtube.com/watch?v=c7WboCXjzd8)
 
 
-
+<br>
 
 # Project structure:
 
