@@ -1,3 +1,5 @@
 
 *.png
 ASSETSTOCHANGE/LotteryGameAssets.svg
+node_modules/
+*.ts
